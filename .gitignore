@@ -1,0 +1,24 @@
+# mac specific
+.DS_Store
+.ansible
+.azure/
+.bash_history
+.boto
+.cache
+*.code-workspace
+.config
+.gitconfig
+.local
+.netrc
+*.plan
+.sentinel
+.ssh
+.terrascan
+.terraform
+.terraformrc
+**/.terraform/*
+.terraform.d
+*.tfstate
+*.tfstate.*
+.vscode
+.idea
