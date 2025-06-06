@@ -2,7 +2,7 @@
 
 ## Architecture Diagram
 
-![Architecture Diagram](a05-architecture.png)
+![Architecture Diagram](a05-architecture.PNG)
 
 ## Deployment Demo
 
